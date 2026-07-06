@@ -88,8 +88,7 @@ Current date and time: 2026-07-06 14:30:00
 
 ## 📸 Application Screenshot
 
-![Student Management System](images/Screenshot%20(128).png)
-
+![Student Management System](images/student-management-system.png)
 
 ## Future Improvements
 
