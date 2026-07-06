@@ -85,10 +85,9 @@ Current date and time: 2026-07-06 14:30:00
 8. Exit
 ```
 
-## 📸 Screenshot
+## 📸 Application Screenshot
 
 ![Student Management System](images/student-management-system.png)
-
 
 ## Future Improvements
 
