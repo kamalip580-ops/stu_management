@@ -85,9 +85,12 @@ Current date and time: 2026-07-06 14:30:00
 8. Exit
 ```
 
-## Screenshot
 
-![Student Management System](images/screenshot(128).png)
+## 📸 Screenshot
+
+![Student Management System](screenshot(128).png)
+
+
 ## Future Improvements
 
 - Add a graphical user interface (GUI)
